@@ -17,8 +17,7 @@ ReplyCraft is a browser extension that integrates seamlessly with Gmail to provi
 
 ## Tech Stack 🛠️  
 - **Frontend**: React.js  
-- **Backend**: Spring Boot (REST API)  
-- **Database**: MySQL (optional for logging/storing replies)  
+- **Backend**: Spring Boot (REST API)   
 - **AI Integration**: Gemini API  
 - **Developer Tools**: Postman, Swagger, GitHub  
 
