@@ -1,7 +1,6 @@
 package com.email.service;
 
 import com.email.EmailRequest.EmailRequest;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.beans.factory.annotation.Value;
